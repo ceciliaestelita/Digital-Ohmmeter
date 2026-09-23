@@ -8,7 +8,8 @@
 Measure the resistive value of an impedance and display its value on an LCD screen
 
 <div align="center">
-  <img width="1404" height="631" alt="image" src="https://github.com/user-attachments/assets/2b091a18-30b1-4f66-ad14-036a72302ffc" />
+  <img width="1093" height="659" alt="image" src="https://github.com/user-attachments/assets/d983e361-aeab-451a-aaf1-69a69a127243" />
+
 
 
   <img width="724" height="429" alt="image" src="https://github.com/user-attachments/assets/b17082f1-9461-4e07-8882-3c6e672e9a8d" />  
