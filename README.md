@@ -8,14 +8,13 @@
 Measure the resistive value of an impedance and display its value on an LCD screen
 
 <div align="center">
-  <img width="1093" height="659" alt="image" src="https://github.com/user-attachments/assets/d983e361-aeab-451a-aaf1-69a69a127243" />
+  <img width="929" height="600" alt="image" src="https://github.com/user-attachments/assets/561b6841-a470-49fc-8934-c3f672c42c11" />
 
 
 
-  <img width="724" height="429" alt="image" src="https://github.com/user-attachments/assets/b17082f1-9461-4e07-8882-3c6e672e9a8d" />  
 </div>
 <div align="center">
-  Design of the electrical circuit    
+  Scheme of the electrical circuit    
 </div>  
 <br/>  
 
