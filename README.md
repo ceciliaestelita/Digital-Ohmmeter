@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 ![Language](https://img.shields.io/badge/Language-c++-blue)
 ![Processor](https://img.shields.io/badge/Microcontroller-Arduino_Nano-orange)
-![Application](https://img.shields.io/badge/Application-Eletronics-purple)
+![Application](https://img.shields.io/badge/Application-Electronics-purple)
 
 Measure the resistive value of an impedance and display it on an LCD screen
 
