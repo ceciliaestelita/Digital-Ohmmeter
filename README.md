@@ -1,7 +1,7 @@
 # Digital-Ohmmeter
 
 ![Status](https://img.shields.io/badge/Status-Complete-green)
-![Language](https://img.shields.io/badge/Language-c++-blue)
+![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Processor](https://img.shields.io/badge/Microcontroller-Arduino_Nano-orange)
 ![Application](https://img.shields.io/badge/Application-Electronics-purple)
 
